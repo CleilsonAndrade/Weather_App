@@ -114,7 +114,7 @@ header i {
 }
 
 .separator::before {
-  content: "or";
+  content: "ou";
   color: #b3b3b3;
   font-size: 19px;
   padding: 0 15px;
