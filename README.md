@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Weather App</h1>
-  <p>Aplicação para realizar consulta de clima, com base na inserção manual da cidade ou geolocalização do dispositivo.</p>
+  <p>Aplicação para realizar consulta de clima na API Open Weather, com base na inserção manual da cidade ou geolocalização do dispositivo.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
