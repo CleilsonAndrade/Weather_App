@@ -16,7 +16,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Aplicação desenvolvida utilizando a API da Open Weather, para realizar consulta de clima, utilizando a fetch API para requisições e respostas, com base na inserção manual da cidade ou geolocalização do dispositivo.
+Aplicação desenvolvida utilizando a API da [**Open Weather**](https://openweathermap.org/api), para realizar consulta de clima, utilizando a fetch API para requisições e respostas, com base na inserção manual da cidade ou geolocalização do dispositivo.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Requisição a API Open Weather<br>
@@ -47,8 +47,8 @@ Aplicação desenvolvida utilizando a API da Open Weather, para realizar consult
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/Busca_Git
-  $ cd ./Busca_Git
+  $ git clone https://github.com/CleilsonAndrade/Weather_App.git
+  $ cd ./Weather_App
 ```
 
 # 📝 <span id="licença">Licença</span>
